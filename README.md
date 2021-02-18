@@ -20,7 +20,7 @@ npm run serve
 
 ### 影院列表
 
-![Snipaste_2021-02-18_10-28-31](C:\Users\Shelby\Desktop\Snipaste_2021-02-18_10-28-31.png)
+![Snipaste_2021-02-18_10-28-31](https://img03.sogoucdn.com/app/a/100520146/bc423832c0aca4633ffefb36393a08f5)
 
 ### 影院
 
