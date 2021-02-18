@@ -1,24 +1,35 @@
-# movie
+# 爱看电影
 
-## Project setup
+## 安装
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 预览图
+
+### 首页
+
+![1](C:\Users\Shelby\Desktop\1.png)
+
+### 影院列表
+
+![Snipaste_2021-02-18_10-28-31](C:\Users\Shelby\Desktop\Snipaste_2021-02-18_10-28-31.png)
+
+### 影院
+
+### ![Snipaste_2021-02-18_10-42-58](C:\Users\Shelby\Desktop\Snipaste_2021-02-18_10-42-58.png)
+
+### 详情
+
+![Snipaste_2021-02-18_10-43-28](C:\Users\Shelby\Desktop\Snipaste_2021-02-18_10-43-28.png)
+
+### 城市列表
+
+![Snipaste_2021-02-18_10-43-54](C:\Users\Shelby\Desktop\Snipaste_2021-02-18_10-43-54.png)
