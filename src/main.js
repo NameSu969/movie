@@ -18,6 +18,7 @@ Vue.filter('formatTime', function (time) {
 })
 // 日期过滤  mm-nn
 Vue.filter('formatDate', function (date) {
+	console.log(date)
   return new Date(date * 1000)
     .toLocaleString("chinese", { hour12: false })
     .split(" ")[0]
