@@ -16,20 +16,20 @@ npm run serve
 
 ### 首页
 
-![1](https://imgchr.com/i/yq2V78)
+![1](https://s3.ax1x.com/2021/02/23/yq2V78.png)
 
 ### 影院列表
 
-![Snipaste_2021-02-18_10-28-31](https://imgchr.com/i/yq2E0f)
+![Snipaste_2021-02-18_10-28-31](https://s3.ax1x.com/2021/02/23/yq2E0f.png)
 
 ### 影院
 
-### ![Snipaste_2021-02-18_10-42-58](https://imgchr.com/i/yq2mtg)
+### ![Snipaste_2021-02-18_10-42-58](https://s3.ax1x.com/2021/02/23/yq2mtg.png)
 
 ### 详情
 
-![Snipaste_2021-02-18_10-43-28](https://imgchr.com/i/yq2eAS)
+![Snipaste_2021-02-18_10-43-28](https://s3.ax1x.com/2021/02/23/yq2eAS.png)
 
 ### 城市列表
 
-![Snipaste_2021-02-18_10-43-54](https://imgchr.com/i/yq2AnP)
+![Snipaste_2021-02-18_10-43-54](https://s3.ax1x.com/2021/02/23/yq2AnP.png)
