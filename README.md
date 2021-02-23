@@ -16,20 +16,20 @@ npm run serve
 
 ### 首页
 
-![1](https://img03.sogoucdn.com/app/a/100520146/bc423832c0aca4633ffefb36393a08f5)
+![1](https://imgchr.com/i/yq2V78)
 
 ### 影院列表
 
-![Snipaste_2021-02-18_10-28-31](https://img03.sogoucdn.com/app/a/100520146/8f0ff42156569d4ee7327d71d45bd299)
+![Snipaste_2021-02-18_10-28-31](https://imgchr.com/i/yq2E0f)
 
 ### 影院
 
-### ![Snipaste_2021-02-18_10-42-58](https://img03.sogoucdn.com/app/a/100520146/bd5dd69d7cc42954a9bc5635f1850b7e)
+### ![Snipaste_2021-02-18_10-42-58](https://imgchr.com/i/yq2mtg)
 
 ### 详情
 
-![Snipaste_2021-02-18_10-43-28](https://img04.sogoucdn.com/app/a/100520146/328b28db38339830609857730d8fe6da)
+![Snipaste_2021-02-18_10-43-28](https://imgchr.com/i/yq2eAS)
 
 ### 城市列表
 
-![Snipaste_2021-02-18_10-43-54](https://img03.sogoucdn.com/app/a/100520146/082f3ee50801ef5cae0ba266e0f4e675)
+![Snipaste_2021-02-18_10-43-54](https://imgchr.com/i/yq2AnP)
